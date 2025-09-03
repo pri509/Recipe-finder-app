@@ -56,6 +56,4 @@ Home Page with Navbar and Search
 
 devloped by : SAKSHI SHUKLA
 
-👩‍💻 Author
 
-Developed by Sakshi Shukla 💻
